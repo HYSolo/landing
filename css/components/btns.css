@@ -1,0 +1,11 @@
+.btn-sign-up {
+  background: rgba(30, 221, 136, 0.9);
+  color: white;
+  font-weight: lighter;
+  padding: 16px 32px;
+  border-radius: 28px;
+}
+
+.btn-sign-up:hover {
+  background: rgba(30, 221, 136, 1);
+}

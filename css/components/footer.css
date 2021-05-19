@@ -1,0 +1,22 @@
+#footer {
+  background-color: #2C2B2B;
+  padding: 80px 0px;
+  text-align: center;
+}
+
+#footer p {
+  font-size: smaller;
+  text-shadow: none;
+  font-weight: lighter;
+  color: grey;
+}
+
+#footer i {
+  font-size: 36px;
+  margin: 6px 12px;
+  color: rgba(30, 221, 136, 0.3);
+}
+
+#footer i:hover {
+  color: rgba(30, 221, 136, 0.5) 
+}
